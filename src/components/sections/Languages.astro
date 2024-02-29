@@ -1,0 +1,49 @@
+---
+import Section from "../Section.astro"
+
+import {languages} from "@cv"
+
+//import {languages} from "@cve"
+
+
+---
+
+<Section title="Idiomas">
+    <ul>
+      {
+        languages.map(({ language, fluency }) => {
+          const languageName = language
+          const fluencyT = fluency
+
+          return(
+            <li>
+              <h3>{language+": "}</h3>
+              <h3>{fluency}</h3>  
+              
+            </li>
+          )
+        })
+
+      }
+    </ul>
+  </Section>
+  
+  <style>
+  ul {
+    display: inline-flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  li {
+    align-items: center;
+    background: #eee;
+    border-radius: 6px;
+    color: black;
+    display: flex;
+    font-size: 0.8rem;
+    font-weight: 500;
+    gap: 4px;
+    padding: 0.2rem 0.6rem;
+  }
+    </style>

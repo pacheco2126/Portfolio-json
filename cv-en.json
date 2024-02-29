@@ -1,0 +1,344 @@
+{
+  "basics": {
+    "name": "Joaquim Pacheco Moreno",
+    "label": "Full Stack Developer, Blockchain developer, Business & DJ",
+    "image": "/me.webp",
+    "email": "jpachecowebdeveloper@gmail.com",
+    "phone": "+34 637601021",
+    "url": "",
+    "summary": "Hello! My name is Joaquim Pacheco, and I'm a Computer Science Engineer looking for new and exciting challenges. With experience in Web programming, Cloud engineering, Technical Support, and more. I am ready to tackle any project. Some of my qualities are adaptability, quick learning and problem solving. I am available to travel. I look forward to discussing how I can bring my skills and enthusiasm to your organization.",
+    "location": {
+      "address": "Violant De hongria 3, 2-2",
+      "postalCode": "43007",
+      "city": "Tarragona",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "JoaquimPachecoMoreno",
+        "url": "https://linkedin.com/in/JoaquimPachecoMoreno"
+      },
+      {
+        "network": "GitHub",
+        "username": "pacheco2126",
+        "url": "https://github.com/pacheco2126"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Freshly Cosmetics",
+      "position": "Costumer Love",
+      "startDate": "2023-09",
+      "endDate": "2024-01",
+      "summary": "Support in the BlackFriday and Christmas campaign. Troubleshooting product and/or customer issues. Customer acquisition capability."
+    },
+    {
+      "name": "Google",
+      "position": "Junior Cloud Engineer",
+      "startDate": "2023-07",
+      "endDate": "2023-10",
+      "summary": "Technical Support in the Apigee department, solving issues for major companies. Configuration of APIs, Virtual machines, Images, Kubernetes...",
+      "highlights": [
+        "WebHelp"
+      ]
+    },
+    {
+      "name": "Tenth Revolution Group",
+      "position": "Soporte Técnico L1",
+      "startDate": "2022-12",
+      "endDate": "2023-07",
+      "summary": "I developed a technical support role at the Barcelona offices. Repair of hardware and software on the equipment. In addition to providing remote support to offices worldwide."
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [
+    {
+      "institution": "Universitat Rovira i Virgili",
+      "url": "https://www.urv.cat/es/",
+      "area": "Computer Science Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2018-09",
+      "endDate": "2023-09"
+    },
+    {
+      "institution": "Univerza V Mariboru",
+      "url": "https://www.um.si/en/home-page/",
+      "area": "Computer Science Engineering (Exchange program)",
+      "studyType": "Bachelor (Exchange program)",
+      "startDate": "2021-09",
+      "endDate": "2022-09"
+    },
+    {
+      "institution": "Conservatory of Josep Carreras",
+      "url": "https://www.auditorijosepcarreras.cat/",
+      "area": "Technician in Musical performance and composition",
+      "studyType": "Música (Trompa)",
+      "startDate": "2004-09",
+      "endDate": "2018-06"
+    }
+],
+
+  "certificates": [
+    {
+      "name": "API Design and Fundamentals of Google Cloud's Apigee API Platform",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5120938"
+    },
+    {
+      "name": "API Development on Google Cloud's Apigee API Platform",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/4960611"
+    },
+    {
+      "name": "Architecting and Installing the Apigee Hybrid API Platform",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5227906"
+    },
+    {
+      "name": "Deploy and Manage Apigee X",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5346047"
+    },
+    {
+      "name": "Deploying SAP on Google Cloud",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5348883"
+    },
+    {
+      "name": "Develop and Secure APIs with Apigee X",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5212867"
+    },
+    {
+      "name": "Develop and Secure APIs with Apigee X",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5212867"
+    },
+    {
+      "name": "Hybrid Cloud Service Mesh with Anthos",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5216275"
+    },
+    {
+      "name": "Introduction to Generative AI",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5215357"
+    },
+    {
+      "name": "Manage Kubernetes in Google Cloud",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5201806"
+    },
+    {
+      "name": "On Premises Capacity Upgrade and Monitoring with Google Cloud's Apigee API Platform",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5232825"
+    },
+    {
+      "name": "On Premises Installation and Fundamentals with Google Cloud's Apigee API Platform",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5232236"
+    },
+    {
+      "name": "On Premises Management, Security, and Upgrade with Google Cloud's Apigee API Platform",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5234006"
+    },
+    {
+      "name": "Reliable Google Cloud Infrastructure: Design and Process",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/5345376"
+    },
+    {
+      "name": "API Security on Google Cloud's Apigee API Platform",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/4834977"
+    },
+    {
+      "name": "API Security on Google Cloud's Apigee API Platform",
+      "date": "2023-09",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/4e32f37b-ae4b-40d5-8068-899c84eac9e0/badges/4834977"
+    },
+    {
+      "name": "CSS",
+      "date": "2023-08",
+      "issuer": "W3Schools",
+      "url": "https://verify.w3schools.com/1O32MEG3BQ"
+    },
+    {
+      "name": "JavaScript",
+      "date": "2023-08",
+      "issuer": "W3Schools",
+      "url": "https://verify.w3schools.com/1O34S1G3XR"
+    },
+    {
+      "name": "HTML",
+      "date": "2023-08",
+      "issuer": "W3Schools",
+      "url": "https://verify.w3schools.com/1O34LD1USY"
+    },
+    {
+      "name": "Front End Development",
+      "date": "2023-08",
+      "issuer": "W3Schools",
+      "url": "https://verify.w3schools.com/1O34S1ISRF"
+    }
+],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Good",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Good",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Good",
+      "keywords": [
+        "Web development", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MongoSB",
+      "level": "Good",
+      "keywords": [
+        "Data Bases", "NoSQL", "Data", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "level": "Good",
+      "keywords": [
+        "Web development", "Frontend", "JS Framework"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Good",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Catalán",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Italiano",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Blockchain",
+    "keywords": [
+      "Smart Contracts",
+      "NFTs"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Solidity Project",
+      "isActive": true,
+      "description": "My first work on Blockchain, Real Estate NFT, Flash Loans.",
+      "highlights": [
+      ],
+      "url": "https://github.com/pacheco2126/solidity_project/tree/master"
+    },
+    {
+      "name": "CryptoShop",
+      "isActive": false,
+      "description": "Online cryptocurrency store, with Paypal",
+      "highlights": [
+
+      ],
+      "url": "https://github.com/pacheco2126/vuejs-cryptocoins-shop"
+    },
+    {
+      "name": "Economia Circular sobre Skate",
+      "isActive": false,
+      "description": "Final degree project, Full Stack web application with MEVN",
+      "highlights": [
+      ],
+      "url": "https://github.com/pacheco2126/TFG"
+    }
+  ]
+}
