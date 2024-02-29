@@ -29,22 +29,12 @@ ore
     <a href="#🔑-licencia">
         Licencia
     </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://midu.dev">
-        Personal
-    </a>
-   
 </div>
 
 <p></p>
 
 <div align="center">
 
-![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/minimalist-portfolio-json)
-![GitHub issues](https://img.shields.io/github/issues/midudev/minimalist-portfolio-json)
-![GitHub forks](https://img.shields.io/github/forks/midudev/minimalist-portfolio-json)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/minimalist-portfolio-json)
 
 </div>
 
@@ -59,7 +49,7 @@ ore
 
 ## 🚀 Empezar
 
-### 1. Usa este [repo](https://github.com/midudev/minimalist-portfolio-json) como _template_ de un proyecto de Astro
+### 1. Usa este como _template_ de un proyecto de Astro
 
 
 - Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
@@ -70,7 +60,7 @@ corepack enable
 corepack prepare pnpm@latest --activate
 
 # Inicializa el proyecto
-pnpm create astro@latest -- --template midudev/minimalist-portfolio-json
+pnpm create astro@latest -- --template (repo)
 ```
 
 ### 2. Añade tu contenido:
@@ -94,11 +84,6 @@ pnpm dev
 | ⚙️  | `build`          | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`.      |
 | ⚙️  | `preview`        | Vista previa en local `localhost:4321` |
 
-
-
-## 🔑 Licencia
-
-[MIT](LICENSE.txt) - Creado por [**midudev**](https://midu.dev).
 
 
 
